@@ -1,0 +1,7 @@
+cd folder-ekstrak-autoboot
+git init
+git add .
+git commit -m "Initial commit AutoBoot TV"
+git branch -M main
+git remote add origin https://github.com/my-username/autoboot-tv.git
+git push -u origin main
